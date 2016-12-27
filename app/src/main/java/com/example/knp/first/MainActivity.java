@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
             public boolean onTouch(View v, MotionEvent event) {
                 while (event.getAction()==MotionEvent.ACTION_DOWN){
                     iv.setRotation(iv.getRotation()-1);
+
+                    //hello
                     return false;
                 }
                 /*
