@@ -1,0 +1,7 @@
+#Thu Feb 02 11:41:22 MSK 2017
+base.0=/home/knp/AndroidStudioProjects/First/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36449b27a9b6c124295aa069d975c56e3cc4a4cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/knp/AndroidStudioProjects/First/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d83dc19a9330fc4ffa796185203680683f1d1379/classes.dex
+base.1=/home/knp/AndroidStudioProjects/First/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d83dc19a9330fc4ffa796185203680683f1d1379
+file.0=/home/knp/AndroidStudioProjects/First/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36449b27a9b6c124295aa069d975c56e3cc4a4cf/classes.dex
